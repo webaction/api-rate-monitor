@@ -17,7 +17,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "php-http/client-implementation": "1.0",
+        "psr/http-client-implementation": "1.0",
         "psr/cache-implementation": "1.0"
     }
 }
